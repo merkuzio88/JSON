@@ -2,8 +2,8 @@
     "name": "Pavel",
     "patronymic": "Nikolaevich",
     "surname": "Kulikov",
-    "age": "33",
-    "number of cats": "1",
-    "number of children": "1",
-    "desired salary": "600$"
+    "age": 33,
+    "number of cats": 1,
+    "number of children": 1,
+    "desired salary": 600
 }
